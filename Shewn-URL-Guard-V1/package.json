@@ -1,0 +1,17 @@
+{
+  "name": "shewn-url-guard-v1",
+  "version": "1.0.0",
+  "description": "'Shewn?#2018 Tarafından yapılmıştır çalmayın kullanın :)",
+  "main": "2018.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 2018.js"
+  },
+  "author": "'Shewn?#2018",
+  "license": "MIT",
+
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "request": "^2.88.2"
+  }
+}
