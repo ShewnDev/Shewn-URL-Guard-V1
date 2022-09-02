@@ -1,7 +1,7 @@
 **Shewn URL Guard V1**
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ShewnKe&color=purple"/>
+    <img src="https://komarev.com/ghpvc/?username=ShewnKe&color=yellow"/>
 </div>
 
 <a href="https://discord.gg/2018" target="_blank">Discord sunucumuza katıl!</a>
