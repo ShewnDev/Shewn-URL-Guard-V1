@@ -1,4 +1,4 @@
-//'Shewn?#2018 Tarafından yapılmıştır çalmayın kullanın :)
+//shewnsex Tarafından yapılmıştır çalmayın kullanın :)
 const { Client, Discord } = require('discord.js');
 const request = require('request');
 const client = new Client();
@@ -16,7 +16,7 @@ restart.send(`\`\`\`${client.user.username} yeniden başlatıldı.\n\nKorunacak 
 });
 
 
-//'Shewn?#2018 Tarafından yapılmıştır çalmayın kullanın :)
+//shewnsex Tarafından yapılmıştır çalmayın kullanın :)
 client.on('guildUpdate', async (oldGuild, newGuild) => {
 
 if (oldGuild.vanityURLCode === newGuild.vanityURLCode) return;
@@ -27,7 +27,7 @@ if (channel) channel.send(`@everyone\n${entry.executor} adlı kişi url'yi deği
 
 if (!channel) return
 newGuild.members.ban(entry.executor.id, {reason: `${entry.executor.tag} Adlı kullanıcı izinsiz URL değiştirmek sebebi ile banlandı!`});
-//'Shewn?#2018 Tarafından yapılmıştır çalmayın kullanın :)
+//shewnsex Tarafından yapılmıştır çalmayın kullanın :)
 
 const AYARLAR = {
     //url: `https://discord.com/api/v6/guilds/${newGuild.id}/vanity-url`, #Arkadaşlar ben v9 kullandım siz istediğinizi kullanabilirsiniz!
@@ -49,5 +49,5 @@ return console.log(err);
    });
 });
 
-//'Shewn?#2018 Tarafından yapılmıştır çalmayın kullanın :)
+//shewnsex Tarafından yapılmıştır çalmayın kullanın :)
 client.login(config.token)
