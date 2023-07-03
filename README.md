@@ -1,10 +1,10 @@
 **Shewn URL Guard V1**
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ShewnKe&color=yellow"/>
+    <img src="https://komarev.com/ghpvc/?username=shewnsex&color=yellow"/>
 </div>
 
-<a href="https://discord.gg/2018" target="_blank">Discord sunucumuza katıl!</a>
+<a href="https://discord.gg/1453" target="_blank">Discord sunucumuza katıl!</a>
 
 
 Size sunduğum URL Guard V1 projesi ile ilgili herhangi bir sorun olursa bana Discord'dan ulaşabilirsiniz.
@@ -15,8 +15,8 @@ Size sunduğum URL Guard V1 projesi ile ilgili herhangi bir sorun olursa bana Di
 
 **Bana ulaşabileceğiniz sosyal medya bilgilerim:**
 
- [![Discord](https://lanyard.cnrad.dev/api/988420853052092426)](https://discord.com/users/988420853052092426)
+ [![Discord](https://lanyard.cnrad.dev/api/693185687758962698)](https://discord.com/users/693185687758962698)
 
  <p align="center">
- <a href="https://discord.com/users/988420853052092426" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/ShewnKe" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://discord.com/users/693185687758962698" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/ShewnDev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
