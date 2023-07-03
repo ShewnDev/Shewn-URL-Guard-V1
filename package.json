@@ -1,13 +1,13 @@
 {
   "name": "shewn-url-guard-v1",
   "version": "1.0.0",
-  "description": "'Shewn?#2018 Tarafından yapılmıştır çalmayın kullanın :)",
-  "main": "2018.js",
+  "description": "shewnsex Tarafından yapılmıştır çalmayın kullanın :)",
+  "main": "shewndev.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node 2018.js"
+    "start": "node shewndev.js"
   },
-  "author": "'Shewn?#2018",
+  "author": "shewnsex",
   "license": "MIT",
 
   "dependencies": {
