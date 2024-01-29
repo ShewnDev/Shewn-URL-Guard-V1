@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=shewnsex&color=yellow"/>
 </div>
 
-<a href="https://discord.gg/1453" target="_blank">Discord sunucumuza katıl!</a>
+<a href="https://discord.gg/sevonia" target="_blank">Discord sunucumuza katıl!</a>
 
 
 Size sunduğum URL Guard V1 projesi ile ilgili herhangi bir sorun olursa bana Discord'dan ulaşabilirsiniz.
